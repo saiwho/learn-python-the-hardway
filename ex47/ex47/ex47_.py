@@ -1,0 +1,5 @@
+print('This exercise is based on Automated Testing using nose library')
+print('Automated testing helps us to test the functions and classes we have written correct or not')
+print('Even if we add some new parts to the code we jst add something in the test file and it is good to go')
+print('Writing Automated testing codes is one of the time saving things')
+print('Knowing your code what does and how it does is the best thing which improves problem solving')
